@@ -1,0 +1,2 @@
+Prefix plugins/Bridge/example/
+Plugin Bridge inputfile parameters.train.txt outputfile output.rds
